@@ -1,2 +1,6 @@
 x <- 2
 y <- 7
+
+bar <- function() {
+  
+}
